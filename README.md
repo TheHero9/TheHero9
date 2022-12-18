@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-<!--
+
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/kyrJ19nyVQHyE/giphy.gif" width="100"/>
 </div>
 
-
+<!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
