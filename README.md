@@ -25,13 +25,13 @@
 
 
 
-## 🙍‍♂️About Me:
+## 🙍‍♂️ About Me:
 - 🏠I live in Sofia, Bulgaria
 - 👨‍🎓I study "Business informatics" in UNWE, Sofia
 - 📫 Open to work
 - ⚡ Quick Learner
 
-## 🙍‍♂️Contact Me:
+## 💌 Contact Me:
 <div id="badges">
   <a href="https://www.linkedin.com/in/demetrios-vlassis/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" width=200px alt="LinkedIn Badge"/>
