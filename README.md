@@ -26,10 +26,10 @@
 
 
 ## 🙍‍♂️ About Me:
-- 🏠I live in Sofia, Bulgaria
-- 👨‍🎓I study "Business informatics" in UNWE, Sofia
-- 📫 Open to work
-- ⚡ Quick Learner
+- 🏠I live in Sofia, Bulgaria.
+- 👨‍🎓I study "Business informatics" in UNWE, Sofia.
+- 📫 Open to work.
+- ⚡ Quick Learner.
 
 ## 💌 Contact Me:
 <div id="badges">
