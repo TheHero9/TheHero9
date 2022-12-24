@@ -29,7 +29,7 @@
 - 🏠I live in Sofia, Bulgaria.
 - 👨‍🎓I study "Business informatics" in UNWE, Sofia.
 - 📫 Open to work.
-- ⚡ Quick Learner.
+- ⚡ Quick Learner, Open-minded, Hard-working.
 
 ## 💌 Contact Me:
 <div id="badges">
