@@ -3,7 +3,7 @@
 </div>
 
 
-## ⌨️ Languages and Tools :
+## ⌨️ Tech Stack :
 <div id="test" align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="70" height="70"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="70" height="70"/>&nbsp;
