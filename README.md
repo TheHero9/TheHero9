@@ -17,7 +17,7 @@
 
 ## 🗣️ Language Card :
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHero9&repo=github-readme-stats&layout=compact&theme=dark&border_radius=20"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHero9&repo=github-readme-stats&layout=compact&theme=dark&border_radius=15"/>
 </a>
 
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
