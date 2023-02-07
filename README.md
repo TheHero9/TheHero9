@@ -16,13 +16,8 @@
 </div>
 
 ## 🗣️ Language Card :
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHero9&repo=github-readme-stats&layout=compact&theme=dark&border_radius=15"/>
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheHero9&repo=github-readme-stats&layout=compact&theme=dark&border_radius=15)
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TheHero9&repo=ThreeJsReactFiber&layout=compact&theme=dracula&border_radius=20" />
-</a> -->
 
 
 
