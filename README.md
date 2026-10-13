@@ -5,7 +5,7 @@
 <br>
 
 <p align="center">
-  <img src="assets/terminal.svg" width="100%" alt="whoami: Demetrios Vlassis, full-stack developer in Sofia. I build and ship fast with AI coding agents, and I do hackathons. Contributions by year: 2022 450, 2023 193, 2024 49, 2025 345, 2026 so far 833. 1,030 in the last 12 months, best day 135." />
+  <img src="assets/terminal.svg" width="100%" alt="Terminal: whoami, then my GitHub contributions by year and by month, longest streak and active days. Redrawn from live data every month." />
 </p>
 
 <h2 align="center">Things I've built</h2>

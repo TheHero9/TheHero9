@@ -6,9 +6,9 @@ const LOGIN = "TheHero9";
 const FIRST_YEAR = 2022;
 const OUT = new URL("../assets/terminal.svg", import.meta.url);
 
-// Optional sections, off by default. Try them with SHOW_STREAK=1 / SHOW_MONTHLY=1.
-const SHOW_STREAK = process.env.SHOW_STREAK === "1"; // "longest streak · active days" line
-const SHOW_MONTHLY = process.env.SHOW_MONTHLY === "1"; // 12-month bar strip
+// Optional sections, on by default. Hide one with SHOW_STREAK=0 / SHOW_MONTHLY=0.
+const SHOW_STREAK = process.env.SHOW_STREAK !== "0"; // "longest streak · active days" line
+const SHOW_MONTHLY = process.env.SHOW_MONTHLY !== "0"; // 12-month bar strip
 
 // Layout (px). Year bars scale so the biggest year fills BAR_MAX.
 const BAR_X = 84;
