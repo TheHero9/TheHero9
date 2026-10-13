@@ -1,25 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 410" width="860" height="410" role="img" aria-labelledby="t d">
   <title id="t">demetrios@sofia</title>
-  <desc id="d">whoami: Demetrios Vlassis, full-stack developer in Sofia. I build and ship fast with AI coding agents, and I do hackathons. Contributions by year: 2022 450, 2023 193, 2024 49, 2025 345, 2026 so far 834. 1,031 in the last 12 months, best day 135.</desc>
+  <desc id="d">whoami: Demetrios Vlassis, full-stack developer in Sofia. I build and ship fast with AI coding agents, and I do hackathons. Contributions by year: 2022 450, 2023 193, 2024 49, 2025 345, 2026 so far 837. 1,034 in the last 12 months, best day 135.</desc>
   <style>
     text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; fill: #e6edf3; }
     .muted { fill: #8b949e; }
     .green { fill: #3fb950; }
     .bright { fill: #39d353; font-weight: 700; }
     .title { font-size: 13px; fill: #8b949e; }
+    .small { font-size: 11px; }
     .f { opacity: 0; animation: fade .35s ease forwards; }
     .cov1 { animation: type1 .55s steps(6, end) .5s forwards; }
     .cov2 { animation: type2 1s steps(23, end) 2.1s forwards; }
     .bar { transform-box: fill-box; transform-origin: 0 50%; transform: scaleX(0); animation: grow .9s cubic-bezier(.2,.8,.2,1) forwards; }
+    .vbar { transform-box: fill-box; transform-origin: 50% 100%; transform: scaleY(0); animation: growy .6s cubic-bezier(.2,.8,.2,1) forwards; }
     .cur { animation: blink 1s steps(2, start) 6s infinite; }
     @keyframes fade { to { opacity: 1; } }
     @keyframes type1 { to { transform: translateX(54px); } }
     @keyframes type2 { to { transform: translateX(207px); } }
     @keyframes grow { to { transform: scaleX(1); } }
+    @keyframes growy { to { transform: scaleY(1); } }
     @keyframes blink { to { visibility: hidden; } }
     @media (prefers-reduced-motion: reduce) {
       .cov1, .cov2 { display: none; }
-      .f, .bar, .cur { animation: none; opacity: 1; transform: none; }
+      .f, .bar, .vbar, .cur { animation: none; opacity: 1; transform: none; }
     }
   </style>
 
@@ -53,18 +56,18 @@
     <text x="24" y="278" class="muted">2025</text>
     <text x="24" y="304" class="muted">2026</text>
   </g>
-  <rect class="bar" style="animation-delay:3.3s" x="84" y="189" width="259" height="14" rx="3" fill="#26a641"/>
-  <rect class="bar" style="animation-delay:3.5s" x="84" y="215" width="111.1" height="14" rx="3" fill="#006d32"/>
-  <rect class="bar" style="animation-delay:3.6s" x="84" y="241" width="28.2" height="14" rx="3" fill="#0e4429"/>
-  <rect class="bar" style="animation-delay:3.8s" x="84" y="267" width="198.6" height="14" rx="3" fill="#26a641"/>
+  <rect class="bar" style="animation-delay:3.3s" x="84" y="189" width="258.1" height="14" rx="3" fill="#26a641"/>
+  <rect class="bar" style="animation-delay:3.5s" x="84" y="215" width="110.7" height="14" rx="3" fill="#006d32"/>
+  <rect class="bar" style="animation-delay:3.6s" x="84" y="241" width="28.1" height="14" rx="3" fill="#0e4429"/>
+  <rect class="bar" style="animation-delay:3.8s" x="84" y="267" width="197.8" height="14" rx="3" fill="#26a641"/>
   <rect class="bar" style="animation-delay:3.9s" x="84" y="293" width="480" height="14" rx="3" fill="#39d353"/>
-  <text x="355" y="200" class="f" style="animation-delay:3.9s">450</text>
-  <text x="207.1" y="226" class="f" style="animation-delay:4.1s">193</text>
-  <text x="124.2" y="252" class="f" style="animation-delay:4.2s">49</text>
-  <text x="294.6" y="278" class="f" style="animation-delay:4.4s">345</text>
-  <text x="576" y="304" class="f" style="animation-delay:4.6s"><tspan class="bright">834</tspan><tspan class="muted"> so far</tspan></text>
+  <text x="354.1" y="200" class="f" style="animation-delay:3.9s">450</text>
+  <text x="206.7" y="226" class="f" style="animation-delay:4.1s">193</text>
+  <text x="124.1" y="252" class="f" style="animation-delay:4.2s">49</text>
+  <text x="293.8" y="278" class="f" style="animation-delay:4.4s">345</text>
+  <text x="576" y="304" class="f" style="animation-delay:4.6s"><tspan class="bright">837</tspan><tspan class="muted"> so far</tspan></text>
 
-  <text x="24" y="344" class="f" style="animation-delay:5.1s"><tspan class="bright">1,031</tspan> in the last 12 months <tspan class="muted">·</tspan> best day: <tspan class="bright">135</tspan></text>
+  <text x="24" y="344" class="f" style="animation-delay:5.1s"><tspan class="bright">1,034</tspan> in the last 12 months <tspan class="muted">·</tspan> best day: <tspan class="bright">135</tspan></text>
 
   <!-- prompt + cursor -->
   <g class="f" style="animation-delay:5.6s">
