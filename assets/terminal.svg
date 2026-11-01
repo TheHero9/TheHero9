@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 590" width="860" height="590" role="img" aria-labelledby="t d">
   <title id="t">demetrios@sofia</title>
-  <desc id="d">whoami: Demetrios Vlassis, full-stack developer in Sofia. I build and ship fast with AI coding agents, and I do hackathons. Contributions by year: 2022 450, 2023 193, 2024 49, 2025 345, 2026 so far 838. 1,035 in the last 12 months, best day 135. Longest streak 12 days, 159 active days in the last 12 months. Monthly: Nov 55, Dec 96, Jan 57, Feb 67, Mar 78, Apr 104, May 71, Jun 57, Jul 119, Aug 98, Sep 5, Oct 182.</desc>
+  <desc id="d">whoami: Demetrios Vlassis, full-stack developer in Sofia. I build and ship fast with AI coding agents, and I do hackathons. Contributions by year: 2022 450, 2023 193, 2024 49, 2025 345, 2026 so far 859. 1,026 in the last 12 months, best day 135. Longest streak 12 days, 159 active days in the last 12 months. Monthly: Dec 96, Jan 57, Feb 67, Mar 78, Apr 104, May 71, Jun 57, Jul 119, Aug 98, Sep 5, Oct 203, Nov 0.</desc>
   <style>
     text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; fill: #e6edf3; }
     .muted { fill: #8b949e; }
@@ -56,18 +56,18 @@
     <text x="24" y="278" class="muted">2025</text>
     <text x="24" y="304" class="muted">2026</text>
   </g>
-  <rect class="bar" style="animation-delay:3.3s" x="84" y="189" width="257.8" height="14" rx="3" fill="#26a641"/>
-  <rect class="bar" style="animation-delay:3.5s" x="84" y="215" width="110.5" height="14" rx="3" fill="#006d32"/>
-  <rect class="bar" style="animation-delay:3.6s" x="84" y="241" width="28.1" height="14" rx="3" fill="#0e4429"/>
-  <rect class="bar" style="animation-delay:3.8s" x="84" y="267" width="197.6" height="14" rx="3" fill="#26a641"/>
+  <rect class="bar" style="animation-delay:3.3s" x="84" y="189" width="251.5" height="14" rx="3" fill="#26a641"/>
+  <rect class="bar" style="animation-delay:3.5s" x="84" y="215" width="107.8" height="14" rx="3" fill="#006d32"/>
+  <rect class="bar" style="animation-delay:3.6s" x="84" y="241" width="27.4" height="14" rx="3" fill="#0e4429"/>
+  <rect class="bar" style="animation-delay:3.8s" x="84" y="267" width="192.8" height="14" rx="3" fill="#26a641"/>
   <rect class="bar" style="animation-delay:3.9s" x="84" y="293" width="480" height="14" rx="3" fill="#39d353"/>
-  <text x="353.8" y="200" class="f" style="animation-delay:3.9s">450</text>
-  <text x="206.5" y="226" class="f" style="animation-delay:4.1s">193</text>
-  <text x="124.1" y="252" class="f" style="animation-delay:4.2s">49</text>
-  <text x="293.6" y="278" class="f" style="animation-delay:4.4s">345</text>
-  <text x="576" y="304" class="f" style="animation-delay:4.6s"><tspan class="bright">838</tspan><tspan class="muted"> so far</tspan></text>
+  <text x="347.5" y="200" class="f" style="animation-delay:3.9s">450</text>
+  <text x="203.8" y="226" class="f" style="animation-delay:4.1s">193</text>
+  <text x="123.4" y="252" class="f" style="animation-delay:4.2s">49</text>
+  <text x="288.8" y="278" class="f" style="animation-delay:4.4s">345</text>
+  <text x="576" y="304" class="f" style="animation-delay:4.6s"><tspan class="bright">859</tspan><tspan class="muted"> so far</tspan></text>
 
-  <text x="24" y="344" class="f" style="animation-delay:5.1s"><tspan class="bright">1,035</tspan> in the last 12 months <tspan class="muted">·</tspan> best day: <tspan class="bright">135</tspan></text>
+  <text x="24" y="344" class="f" style="animation-delay:5.1s"><tspan class="bright">1,026</tspan> in the last 12 months <tspan class="muted">·</tspan> best day: <tspan class="bright">135</tspan></text>
   <text x="24" y="370" class="f" style="animation-delay:5.4s">longest streak: <tspan class="bright">12 days</tspan> <tspan class="muted">·</tspan> <tspan class="bright">159</tspan> active days</text>
 
   <!-- $ contributions monthly -->
@@ -75,43 +75,43 @@
   <text x="42" y="412" textLength="207" lengthAdjust="spacing">contributions --monthly</text>
   <rect class="cov2" style="animation-delay:6.1s" x="42" y="396" width="207" height="22" fill="#0d1117"/>
   <g class="f" style="animation-delay:7.2s">
-    <text x="42" y="524" text-anchor="middle" class="muted small">Nov</text>
-    <text x="90" y="524" text-anchor="middle" class="muted small">Dec</text>
-    <text x="138" y="524" text-anchor="middle" class="muted small">Jan</text>
-    <text x="186" y="524" text-anchor="middle" class="muted small">Feb</text>
-    <text x="234" y="524" text-anchor="middle" class="muted small">Mar</text>
-    <text x="282" y="524" text-anchor="middle" class="muted small">Apr</text>
-    <text x="330" y="524" text-anchor="middle" class="muted small">May</text>
-    <text x="378" y="524" text-anchor="middle" class="muted small">Jun</text>
-    <text x="426" y="524" text-anchor="middle" class="muted small">Jul</text>
-    <text x="474" y="524" text-anchor="middle" class="muted small">Aug</text>
-    <text x="522" y="524" text-anchor="middle" class="muted small">Sep</text>
-    <text x="570" y="524" text-anchor="middle" class="muted small">Oct</text>
+    <text x="42" y="524" text-anchor="middle" class="muted small">Dec</text>
+    <text x="90" y="524" text-anchor="middle" class="muted small">Jan</text>
+    <text x="138" y="524" text-anchor="middle" class="muted small">Feb</text>
+    <text x="186" y="524" text-anchor="middle" class="muted small">Mar</text>
+    <text x="234" y="524" text-anchor="middle" class="muted small">Apr</text>
+    <text x="282" y="524" text-anchor="middle" class="muted small">May</text>
+    <text x="330" y="524" text-anchor="middle" class="muted small">Jun</text>
+    <text x="378" y="524" text-anchor="middle" class="muted small">Jul</text>
+    <text x="426" y="524" text-anchor="middle" class="muted small">Aug</text>
+    <text x="474" y="524" text-anchor="middle" class="muted small">Sep</text>
+    <text x="522" y="524" text-anchor="middle" class="muted small">Oct</text>
+    <text x="570" y="524" text-anchor="middle" class="muted small">Nov</text>
   </g>
-  <rect class="vbar" style="animation-delay:7.4s" x="24" y="487.1" width="36" height="16.9" rx="3" fill="#006d32"/>
-  <rect class="vbar" style="animation-delay:7.4s" x="72" y="474.5" width="36" height="29.5" rx="3" fill="#26a641"/>
-  <rect class="vbar" style="animation-delay:7.5s" x="120" y="486.5" width="36" height="17.5" rx="3" fill="#006d32"/>
-  <rect class="vbar" style="animation-delay:7.6s" x="168" y="483.4" width="36" height="20.6" rx="3" fill="#26a641"/>
-  <rect class="vbar" style="animation-delay:7.6s" x="216" y="480" width="36" height="24" rx="3" fill="#26a641"/>
-  <rect class="vbar" style="animation-delay:7.7s" x="264" y="472" width="36" height="32" rx="3" fill="#26a641"/>
-  <rect class="vbar" style="animation-delay:7.8s" x="312" y="482.2" width="36" height="21.8" rx="3" fill="#26a641"/>
-  <rect class="vbar" style="animation-delay:7.8s" x="360" y="486.5" width="36" height="17.5" rx="3" fill="#006d32"/>
-  <rect class="vbar" style="animation-delay:7.9s" x="408" y="467.4" width="36" height="36.6" rx="3" fill="#26a641"/>
-  <rect class="vbar" style="animation-delay:8s" x="456" y="473.8" width="36" height="30.2" rx="3" fill="#26a641"/>
-  <rect class="vbar" style="animation-delay:8.1s" x="504" y="502" width="36" height="2" rx="3" fill="#0e4429"/>
-  <rect class="vbar" style="animation-delay:8.1s" x="552" y="448" width="36" height="56" rx="3" fill="#39d353"/>
-  <text x="42" y="481.1" text-anchor="middle" class="f small" style="animation-delay:7.8s">55</text>
-  <text x="90" y="468.5" text-anchor="middle" class="f small" style="animation-delay:7.8s">96</text>
-  <text x="138" y="480.5" text-anchor="middle" class="f small" style="animation-delay:7.9s">57</text>
-  <text x="186" y="477.4" text-anchor="middle" class="f small" style="animation-delay:8s">67</text>
-  <text x="234" y="474" text-anchor="middle" class="f small" style="animation-delay:8s">78</text>
-  <text x="282" y="466" text-anchor="middle" class="f small" style="animation-delay:8.1s">104</text>
-  <text x="330" y="476.2" text-anchor="middle" class="f small" style="animation-delay:8.2s">71</text>
-  <text x="378" y="480.5" text-anchor="middle" class="f small" style="animation-delay:8.2s">57</text>
-  <text x="426" y="461.4" text-anchor="middle" class="f small" style="animation-delay:8.3s">119</text>
-  <text x="474" y="467.8" text-anchor="middle" class="f small" style="animation-delay:8.4s">98</text>
-  <text x="522" y="496" text-anchor="middle" class="f small" style="animation-delay:8.5s">5</text>
-  <text x="570" y="442" text-anchor="middle" class="f small" style="animation-delay:8.5s">182</text>
+  <rect class="vbar" style="animation-delay:7.4s" x="24" y="477.5" width="36" height="26.5" rx="3" fill="#26a641"/>
+  <rect class="vbar" style="animation-delay:7.4s" x="72" y="488.3" width="36" height="15.7" rx="3" fill="#006d32"/>
+  <rect class="vbar" style="animation-delay:7.5s" x="120" y="485.5" width="36" height="18.5" rx="3" fill="#006d32"/>
+  <rect class="vbar" style="animation-delay:7.6s" x="168" y="482.5" width="36" height="21.5" rx="3" fill="#26a641"/>
+  <rect class="vbar" style="animation-delay:7.6s" x="216" y="475.3" width="36" height="28.7" rx="3" fill="#26a641"/>
+  <rect class="vbar" style="animation-delay:7.7s" x="264" y="484.4" width="36" height="19.6" rx="3" fill="#006d32"/>
+  <rect class="vbar" style="animation-delay:7.8s" x="312" y="488.3" width="36" height="15.7" rx="3" fill="#006d32"/>
+  <rect class="vbar" style="animation-delay:7.8s" x="360" y="471.2" width="36" height="32.8" rx="3" fill="#26a641"/>
+  <rect class="vbar" style="animation-delay:7.9s" x="408" y="477" width="36" height="27" rx="3" fill="#26a641"/>
+  <rect class="vbar" style="animation-delay:8s" x="456" y="502" width="36" height="2" rx="3" fill="#0e4429"/>
+  <rect class="vbar" style="animation-delay:8.1s" x="504" y="448" width="36" height="56" rx="3" fill="#39d353"/>
+  <rect class="vbar" style="animation-delay:8.1s" x="552" y="504" width="36" height="0" rx="3" fill="#0e4429"/>
+  <text x="42" y="471.5" text-anchor="middle" class="f small" style="animation-delay:7.8s">96</text>
+  <text x="90" y="482.3" text-anchor="middle" class="f small" style="animation-delay:7.8s">57</text>
+  <text x="138" y="479.5" text-anchor="middle" class="f small" style="animation-delay:7.9s">67</text>
+  <text x="186" y="476.5" text-anchor="middle" class="f small" style="animation-delay:8s">78</text>
+  <text x="234" y="469.3" text-anchor="middle" class="f small" style="animation-delay:8s">104</text>
+  <text x="282" y="478.4" text-anchor="middle" class="f small" style="animation-delay:8.1s">71</text>
+  <text x="330" y="482.3" text-anchor="middle" class="f small" style="animation-delay:8.2s">57</text>
+  <text x="378" y="465.2" text-anchor="middle" class="f small" style="animation-delay:8.2s">119</text>
+  <text x="426" y="471" text-anchor="middle" class="f small" style="animation-delay:8.3s">98</text>
+  <text x="474" y="496" text-anchor="middle" class="f small" style="animation-delay:8.4s">5</text>
+  <text x="522" y="442" text-anchor="middle" class="f small" style="animation-delay:8.5s">203</text>
+  <text x="570" y="498" text-anchor="middle" class="f small" style="animation-delay:8.5s">0</text>
 
   <!-- prompt + cursor -->
   <g class="f" style="animation-delay:9.1s">
