@@ -27,7 +27,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://homesay.ai"><img src="assets/homesay.jpg" width="100%" alt="The same Sofia living room before and after Homesay: four real products from IKEA and Videnov, 733 euro" /></a>
+      <a href="https://homesay.ai"><img src="assets/homesay.jpg" width="100%" alt="Homesay on four phones, one per step: a chat that collects the brief, a before and after design inside a 3,000 euro budget, tap-to-swap real products, and one basket split across Videnov, IKEA and Aiko" /></a>
       <h3><a href="https://homesay.ai">Homesay</a></h3>
       Snap one photo of your room. Homesay redesigns it with real furniture from Bulgarian shops, checked to fit your walls and kept inside your budget.
       <br><sub>Born at the Crossroads AI Hackathon · Oct 2026 · live at <a href="https://homesay.ai">homesay.ai</a></sub>
@@ -42,7 +42,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://comedycommunity.club"><img src="assets/comedy.jpg" width="100%" alt="Comedy Club Community" /></a>
+      <a href="https://comedycommunity.club"><img src="assets/comedy.jpg" width="100%" alt="Comedy Club Community on three phones: the episode grid, the home page with search and channels, and an episode page" /></a>
       <h3><a href="https://comedycommunity.club">Comedy Club Community</a></h3>
       Every episode of a group of Bulgarian YouTube podcasts in one place, searchable down to what was said.
     </td>
