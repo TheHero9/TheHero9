@@ -79,6 +79,19 @@
 <table>
   <tr>
     <td>
+      <h3><a href="https://nondit.app">Nondit</a></h3>
+      Real-time pitch feedback. Jurors tap quick feedback chips during a startup pitch, Nondit strips the names and hands every founder one honest, anonymous feedback page.
+      <br><br>
+      <a href="https://nondit.app"><img src="assets/nondit.jpg" width="100%" alt="Nondit on three phones: the landing page, a juror tapping feedback chips during a live pitch, and the founder's anonymous feedback page with 68 percent positive" /></a>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td>
       <h3><a href="https://github.com/TheHero9/SubotnoFutbolche">Football Wrapped</a></h3>
       Spotify Wrapped for my Saturday football group. 48 players, streaks, ranks, a quiz and the teammates you really play with.
       <br><br>
