@@ -12,42 +12,49 @@
 
 <table>
   <tr>
-    <td colspan="2">
-      <img src="assets/roomie.jpg" width="100%" alt="The same Sofia living room before and after Roomie: four real products from IKEA and Videnov, 733 euro" />
-      <h3>Roomie</h3>
-      AI interior designer. Photo of your room in, photoreal redesigns with real furniture from Bulgarian shops out, inside a hard budget.
-      <br><sub>Crossroads AI Hackathon · Oct 2026 · private repo</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td>
       <a href="https://tifomaker.com"><img src="assets/tifomaker.jpg" width="100%" alt="TifoMaker" /></a>
       <h3><a href="https://tifomaker.com">TifoMaker</a></h3>
       Design stadium choreographies. Build a 3D model of the stadium, paint the tifo on it, export seat-by-seat instructions as a PDF.
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td>
+      <a href="https://workouts-zh8n.vercel.app"><img src="assets/workouts.jpg" width="100%" alt="Workouts" /></a>
+      <h3><a href="https://workouts-zh8n.vercel.app">Workouts</a></h3>
+      My training log, built for the gym floor. Log sets in seconds, even offline, track PRs, follow running plans and get feedback from an AI coach.
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://homesay.ai"><img src="assets/homesay.jpg" width="100%" alt="The same Sofia living room before and after Homesay: four real products from IKEA and Videnov, 733 euro" /></a>
+      <h3><a href="https://homesay.ai">Homesay</a></h3>
+      Snap one photo of your room. Homesay redesigns it with real furniture from Bulgarian shops, checked to fit your walls and kept inside your budget.
+      <br><sub>Born at the Crossroads AI Hackathon · Oct 2026 · live at <a href="https://homesay.ai">homesay.ai</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://remember-me-seven-gamma.vercel.app"><img src="assets/remember-me.jpg" width="100%" alt="Remember Me" /></a>
       <h3><a href="https://remember-me-seven-gamma.vercel.app">Remember Me</a></h3>
       Shared trip albums. Friends drop in photos and videos, it merges them into one timeline and turns it into a printable book where videos become QR codes.
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td>
       <a href="https://comedycommunity.club"><img src="assets/comedy.jpg" width="100%" alt="Comedy Club Community" /></a>
       <h3><a href="https://comedycommunity.club">Comedy Club Community</a></h3>
       Every episode of a group of Bulgarian YouTube podcasts in one place, searchable down to what was said.
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/TheHero9/SubotnoFutbolche"><img src="assets/football.jpg" width="100%" alt="Football Wrapped" /></a>
       <h3><a href="https://github.com/TheHero9/SubotnoFutbolche">Football Wrapped</a></h3>
       Spotify Wrapped for my Saturday football group. 48 players, streaks, ranks, a quiz and the teammates you really play with.
     </td>
   </tr>
 </table>
-
-<p align="center">
-  Also: <a href="https://workouts-zh8n.vercel.app"><b>Workouts</b></a>, log workouts fast, track PRs, get feedback from an AI coach.
-</p>
 
 <br>
 

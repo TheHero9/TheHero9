@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 590" width="860" height="590" role="img" aria-labelledby="t d">
   <title id="t">demetrios@sofia</title>
-  <desc id="d">whoami: Demetrios Vlassis, full-stack developer in Sofia. I build and ship fast with AI coding agents, and I do hackathons. Contributions by year: 2022 450, 2023 193, 2024 49, 2025 345, 2026 so far 859. 1,026 in the last 12 months, best day 135. Longest streak 12 days, 159 active days in the last 12 months. Monthly: Dec 96, Jan 57, Feb 67, Mar 78, Apr 104, May 71, Jun 57, Jul 119, Aug 98, Sep 5, Oct 203, Nov 0.</desc>
+  <desc id="d">whoami: Demetrios Vlassis, full-stack developer in Sofia. I code the whole product, from the first idea to a live URL. Contributions by year: 2022 450, 2023 193, 2024 49, 2025 345, 2026 so far 859. 1,026 in the last 12 months, best day 135. Longest streak 12 days, 159 active days in the last 12 months. Monthly: Dec 96, Jan 57, Feb 67, Mar 78, Apr 104, May 71, Jun 57, Jul 119, Aug 98, Sep 5, Oct 203, Nov 0.</desc>
   <style>
     text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 15px; fill: #e6edf3; }
     .muted { fill: #8b949e; }
@@ -41,7 +41,7 @@
   <rect class="cov1" x="42" y="56" width="54" height="22" fill="#0d1117"/>
 
   <text x="24" y="100" class="f" style="animation-delay:1.25s">Demetrios Vlassis <tspan class="muted">·</tspan> full-stack developer <tspan class="muted">·</tspan> Sofia</text>
-  <text x="24" y="126" class="f muted" style="animation-delay:1.5s">I build and ship fast with AI coding agents, and I do hackathons.</text>
+  <text x="24" y="126" class="f muted" style="animation-delay:1.5s">I code the whole product, from the first idea to a live URL.</text>
 
   <!-- $ contributions by year -->
   <text x="24" y="168" class="green f" style="animation-delay:1.95s">$</text>

@@ -160,7 +160,7 @@ const blinkDelay = r1(promptDelay + 0.4);
 
 const byYear = years.map((yr, i) => `${yr}${yr === thisYear ? " so far" : ""} ${fmt(counts[i])}`).join(", ");
 const desc = [
-  "whoami: Demetrios Vlassis, full-stack developer in Sofia. I build and ship fast with AI coding agents, and I do hackathons.",
+  "whoami: Demetrios Vlassis, full-stack developer in Sofia. I code the whole product, from the first idea to a live URL.",
   `Contributions by year: ${byYear}. ${fmt(last12)} in the last 12 months, best day ${fmt(bestDay)}.`,
   SHOW_STREAK ? `Longest streak ${longestStreak} days, ${activeDays} active days in the last 12 months.` : "",
   SHOW_MONTHLY ? `Monthly: ${months.map((m) => `${m.label} ${fmt(m.value)}`).join(", ")}.` : "",
@@ -209,7 +209,7 @@ const svg = `<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 ${height}"
   <rect class="cov1" x="42" y="56" width="54" height="22" fill="#0d1117"/>
 
   <text x="24" y="100" class="f" style="animation-delay:1.25s">Demetrios Vlassis <tspan class="muted">·</tspan> full-stack developer <tspan class="muted">·</tspan> Sofia</text>
-  <text x="24" y="126" class="f muted" style="animation-delay:1.5s">I build and ship fast with AI coding agents, and I do hackathons.</text>
+  <text x="24" y="126" class="f muted" style="animation-delay:1.5s">I code the whole product, from the first idea to a live URL.</text>
 
   <!-- $ contributions by year -->
   <text x="24" y="168" class="green f" style="animation-delay:1.95s">$</text>
