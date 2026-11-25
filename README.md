@@ -13,14 +13,14 @@
 <table>
   <tr>
     <td>
-      <a href="https://tifomaker.com"><img src="assets/tifomaker.jpg" width="100%" alt="TifoMaker" /></a>
+      <a href="https://tifomaker.com"><img src="assets/tifomaker.jpg" width="100%" alt="TifoMaker 3D editor: Arena 8888 Sofia with all 12,505 seats painted as a Bulgarian flag and embroidery bands" /></a>
       <h3><a href="https://tifomaker.com">TifoMaker</a></h3>
       Design stadium choreographies. Build a 3D model of the stadium, paint the tifo on it, export seat-by-seat instructions as a PDF.
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://workouts-zh8n.vercel.app"><img src="assets/workouts.jpg" width="100%" alt="Workouts" /></a>
+      <a href="https://workouts-zh8n.vercel.app"><img src="assets/workouts.jpg" width="100%" alt="Workouts on three phones: Today with recent PRs and this week's sessions, a calendar of 134 sessions, and the training history" /></a>
       <h3><a href="https://workouts-zh8n.vercel.app">Workouts</a></h3>
       My training log, built for the gym floor. Log sets in seconds, even offline, track PRs, follow running plans and get feedback from an AI coach.
     </td>
@@ -35,7 +35,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://remember-me-seven-gamma.vercel.app"><img src="assets/remember-me.jpg" width="100%" alt="Remember Me" /></a>
+      <a href="https://remember-me-seven-gamma.vercel.app"><img src="assets/remember-me.jpg" width="100%" alt="Remember Me on three phones: my Swiss Alps photos floating into one album, the shared photo grid, and a printed QR code that plays the Oeschinensee clip" /></a>
       <h3><a href="https://remember-me-seven-gamma.vercel.app">Remember Me</a></h3>
       Shared trip albums. Friends drop in photos and videos, it merges them into one timeline and turns it into a printable book where videos become QR codes.
     </td>
